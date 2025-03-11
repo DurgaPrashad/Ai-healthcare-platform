@@ -4,28 +4,11 @@ HealthAI is a futuristic healthcare platform that leverages artificial intellige
 
 
 
-
-
-healthai/
-├── app/                  # Next.js App Router
-│   ├── api/              # API routes
-│   ├── consultations/    # Doctor consultation pages
-│   ├── dashboard/        # Health dashboard pages
-│   ├── diagnosis/        # AI diagnosis pages
-│   └── records/          # Health records pages
-├── components/           # React components
-│   ├── ui/               # UI components from shadcn
-│   └── ...               # Custom components
-├── lib/                  # Utility functions and services
-│   ├── ai-service.ts     # AI integration services
-│   └── ...               # Other services
-├── public/               # Static assets
-└── llm_models/           # Directory for pre-trained LLM models
-![image](https://github.com/user-attachments/assets/2b27705c-91f7-4a38-bf49-6cc5527dbc7d)
-
 ## Project Overview
 
 
+
+![image](https://github.com/user-attachments/assets/2b27705c-91f7-4a38-bf49-6cc5527dbc7d)
 1. **Landing Page**: A modern, responsive landing page that introduces the platform and its key features.
 
 2. **Health Dashboard**: A dynamic dashboard displaying vital health metrics with real-time monitoring capabilities, including:

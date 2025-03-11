@@ -1,9 +1,9 @@
 HealthAI - AI-Powered Healthcare Platform
 HealthAI is a futuristic healthcare platform that leverages artificial intelligence to provide personalized health monitoring, diagnosis assistance, and patient engagement. The platform features a modular architecture that allows for easy integration of APIs and pre-trained LLM models.
-![image](https://github.com/user-attachments/assets/47930be1-0969-444e-9180-e87bf5a88dcf)
 
 
 
+![image](https://github.com/user-attachments/assets/7b682a32-2356-4998-b6b2-b0ab12d1b751)
 ## Project Overview
 
 
@@ -48,8 +48,8 @@ Doctor Consultation & Chatbot - Secure chat and video consultation with AI-enhan
 Health Record Management - Secure storage and retrieval of patient records with API-based integrations
 Medication & Appointment Reminders - Automated scheduling and reminders for medications and doctor visits
 Emergency Alerts - Smart emergency response system detecting critical conditions and alerting emergency contacts
-![image](https://github.com/user-attachments/assets/7b682a32-2356-4998-b6b2-b0ab12d1b751)
 
+![image](https://github.com/user-attachments/assets/47930be1-0969-444e-9180-e87bf5a88dcf)
 Tech Stack
 Frontend: Next.js 14 with App Router, React, Tailwind CSS, shadcn/ui
 AI Integration: Vercel AI SDK with OpenAI models
